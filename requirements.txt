@@ -1,0 +1,2 @@
+# fixture pypi shape-1 pin
+cryptography==42.0.0

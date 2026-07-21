@@ -1,0 +1,5 @@
+services:
+  db:
+    image: postgres:12.4
+  cache:
+    image: ${DYNAMIC_IMAGE}
