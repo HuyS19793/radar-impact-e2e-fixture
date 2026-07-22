@@ -1,5 +1,5 @@
 services:
   db:
-    image: postgres:13.5
+    image: postgres:16-alpine
   cache:
     image: ${DYNAMIC_IMAGE}
