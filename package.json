@@ -2,6 +2,6 @@
   "name": "radar-impact-e2e-fixture",
   "private": true,
   "dependencies": {
-    "next": "14.2.2"
+    "next": "15.5.21"
   }
 }
